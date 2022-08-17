@@ -1,0 +1,19 @@
+  <section class="all">
+    
+    <section class="nav"></section>
+    
+    <section class="title"></section>
+    
+    <section class="main">
+     <div class="main_top"></div>
+     <div class="banner"></div>
+     <div class="main_bottom"></div>
+     <div class="main_link"></div>
+    </section>
+    
+    <section class="footer">
+      <div class="footer_category"></div>
+      <div class="footer_info"></div>
+    </section>
+
+</section>
